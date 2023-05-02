@@ -3,7 +3,7 @@ layout: about
 image: /assets/img/blog/hyungjin.jpg
 description: >
   A person who likes greenery and tries her best to make improvement!
-hide_description: False
+hide_description: True
 redirect_from:
   - /download/
 ---
