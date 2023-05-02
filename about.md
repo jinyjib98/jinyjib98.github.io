@@ -1,21 +1,20 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/blog/hyungjin.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-hide_description: true
+  A person who likes greenery and tries her best to make improvement!
+hide_description: False
 redirect_from:
   - /download/
 ---
 
-# About
+# Hello, World 🌟
 
 <!--author-->
 
-## Hydejack
+## Who am I?
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+Majored in PS(Political Science) but currently working as Product Manager in education industry.
 {:.lead}
 
 1. this list will be replaced by the toc
@@ -35,7 +34,7 @@ It includes a blog that is suitable for both prose and technical documentation, 
 {:.lead}
 
 
-## A Personal Site That Won't Disappear
+## A Person that likes greenery
 
 **Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
 
